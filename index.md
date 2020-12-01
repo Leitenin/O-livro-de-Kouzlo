@@ -1,4 +1,4 @@
-<body background="https://edrodrigues.com.br/wp-content/uploads/2019/02/18-texturas-de-papel-gratis-papel-de-alta-qualidade-e-sem-custo-13.jpg"> 
+<center>
 <h1>O livro de Kouzlo.</h1>
  <h3>este livro é a junção de todas os livros de Perades e seus amigos.</h3>
 <h1>A Aura.</h1>
