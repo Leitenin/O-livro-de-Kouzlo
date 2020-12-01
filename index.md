@@ -10,4 +10,4 @@
 <h1>hazırlık</h1>
 <p>Hazirlik é o ato anterior ao feitiço feito para preparar-lo. Em elementos utilizamos a forma de mão K+ʞ</p>
 <H2>Exemplo</h2>
-<img scr="https://web.whatsapp.com/18930805-c38c-4420-9de4-404397cb79f2">
+<img src="blob:https://web.whatsapp.com/18930805-c38c-4420-9de4-404397cb79f2">
