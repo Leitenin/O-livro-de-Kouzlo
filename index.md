@@ -13,4 +13,4 @@
  <h2>Exemplo de harzirliks gestuais<
  <h3>Em harzirlik para elementos utiliza-se a forma de mão K+ʞ, onde as duas fazem um formato de K com a mão utilizando os dedos e colocam as duas ao lado, e pensando no elemento que ira utilizar, a forma em que vai vir e o que vai fazer. O elemento  vai aparecer no centro do gesto de mão K+ʞ.</h3>
  <h2>harzirliks verbais</h2>
- <h3>Harzirlks verbais em feitiços elementais sao usados por seres que tem menos coordenação motora e mais facilidade em pronunciar o feitiço. Para maniplar o fogo precisa pronunciar as seguintes palavras: Ignis Deus, da mihi virtutem ignis ad tempus cohibeat</h3>
+ <h3>Harzirlks verbais em feitiços elementais são usados por seres que tem menos coordenação motora e mais facilidade em pronunciar o feitiço. Para maniplar o fogo precisa pronunciar as seguintes palavras: Ignis Deus, da mihi virtutem ignis ad tempus cohibeat</h3>
