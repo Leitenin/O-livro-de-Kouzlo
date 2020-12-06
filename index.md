@@ -13,4 +13,6 @@
  <h2>Exemplo de harzirliks gestuais</h2>
  <h3>Em harzirlik para elementos utiliza-se a forma de mão K+ʞ, onde as duas fazem um formato de K com a mão utilizando os dedos e colocam as duas ao lado, e pensando no elemento que ira utilizar, a forma em que vai vir e o que vai fazer. O elemento  vai aparecer no centro do gesto de mão K+ʞ.</h3>
  <h2>harzirliks verbais.</h2>
- <h3>Harzirlks verbais em feitiços elementais são usados por seres que tem menos coordenação motora e mais facilidade em pronunciar o feitiço. Para maniplar o fogo precisa pronunciar as seguintes palavras: Ignis Deus, da mihi virtutem ignis ad tempus cohibeat</h3>
+ <h3>Harzirlks verbais em feitiços elementais são usados por seres que tem menos coordenação motora e mais facilidade em pronunciar o feitiço. Para manipular o fogo precisa-se pronunciar as seguintes palavras: Ignis Deus, da mihi virtutem ignis ad tempus cohibeat. Para mudar o elemento que ira controlar temporariamente, basta trocar as palavras"ignis", pelo elemento desejado em latim.</h3>
+ <h1>Ranks de magia.</h1>
+ <h3>os ranks de magia podem denominar a dificuldade do feitiço, nivel de manipulação de magia e o quão perigoso o ser é. todos utilizam a mesma rankeção, muda apenas o que esta sendo rankeado. O mais alto rank é o "K" e o mais baixo o "Z"; a ordem é: K,L,M,N,O,P,Q,R,S e Z. para saber o que esta rank define procure a palavra anterior ou o sujeito da frase na qual esta escrita o rank. Exemplo: O ser é clasificado como rank S;</h3>
