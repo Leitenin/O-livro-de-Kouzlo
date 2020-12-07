@@ -17,6 +17,6 @@
  <h1>Ranks de magia.</h1>
      <h3>os ranks de magia podem denominar a dificuldade do feitiço e nivel de manipulação de magia. todos estes utilizam a mesma rankeação, muda apenas o que esta sendo rankeado. O mais alto rank é o "K" e o mais baixo o "Z"; a ordem é: K,L,M,N,O,P,Q,R,S e Z. Para saber o que este rank define procure a palavra anterior ou o sujeito da frase na qual esta escrita o rank.</h3> 
      <h3>Exemplo: O nicolau é clasificado como rank S; O feitiço de azaração é nivel rank M.</h3>
-  <h2>rankeamento de monstros.</h3>
+  <h2>rankeamento de monstros.</h2>
      <h3>O rankeamento de monstros é mais simples que o de magia, pois, ele contem apenas 3 ranks. Quanto mais alto o rank é mais perigoso e mortal este mosntro é. O mais alto rank é o C+ e o mais baico c-. A ordem é: C+, C, CK e C-.</h3>
  <h3>Exemplo: o montro tem nivel Z e rank CK.</h3>
