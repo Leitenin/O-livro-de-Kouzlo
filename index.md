@@ -23,4 +23,4 @@
      <h3>Um mosntro é definido por um aspecto aterrorizante ou poder aterrorizante; nem sempre o ser é mal, ele pode apenas ser aterrorizante.</h3>
        <h2>rankeamento de monstros.</h2>
      <h3>O rankeamento de monstros é mais simples que o de magia, pois, ele contem apenas 3 ranks. Quanto mais alto o rank é mais perigoso e mortal este mosntro é. O mais alto rank é o C+ e o mais baico c-. A ordem é: C+, C, CK e C-.</h3>
- <h3>Exemplo: o monstro tem nivel Z e rank CK. </h3>
+ <h3>Exemplo: o monstro tem nivel Z e rank CK.</h3>
