@@ -8,15 +8,19 @@
       <h3>Aura é uma energia que cobre todos os seres vivos, esta energia é poderosa e se o ser souber controla-la pode usar magia e feitiçaria. Cientificamente, a Aura é a junção de todas as coisas emanadas pelo corpo humano, como calor, frio, raiva, alegria e etc.</h3>
   <h1>Adquirindo Magia!</h1>
      <h3>Antes que comece a jogar feitiços em não mágicos, você tem que cuidar de sua aura. Exercícios de concentração e de equilíbrio ajudam neste quesito, inclusive é o que ira fazer. Va ate um lugar onde o ar corre e não é totalmente fechado (quintal, rua e etc. ) Depois comece a mover sua mão de acordo com o vento, indo e voltando, movimentos leves e movidos por sua emoção, fazendo este movimento por 2 minutos é o necessário . Agora comece a se concentrar e focar em sua aura. Apenas se concentre em suas emoções, sua temperatura e sua força de vontade em querer aprender magia. Fazendo estes dois exercícios por uma semana você ira adquirir o controle básico de sua aura.</h3>
+   <h1>Ranks de magia.</h1>
+     <h3>os ranks de magia podem denominar a dificuldade do feitiço e nivel de manipulação de magia; É importante que o interessado saiba quais são estes ranks para não ir em uma busca a um monstro e acabar morrendo, ou até, fazer uma magia na qual sua aura não estava apta e acabar num fim trágico. Nivel do feitiço ou nivel de manipulação, todos estes utilizam a mesma rankeação, muda apenas o que esta sendo rankeado. O mais alto rank é o "K" e o mais baixo o "Z"; a ordem é: K, L, M, N, O, P, Q, R, S e Z . Para saber o que este rank define procure a palavra anterior ou o sujeito da frase na qual esta escrita o rank.</h3> 
+     <h3>Exemplo: O nicolau é clasificado como rank S; O feitiço de azaração é nivel rank M.</h3>
  <h1>hazırlık.</h1>
      <h3>Hazirlik é o ato anterior ao feitiço feito para prepara-lo, podendo ser um gesto, uma frase verbal ou os dois em conjunto.</h3> 
   <h2>Exemplo de harzirliks gestuais</h2>
      <h3>Em harzirlik para elementos utiliza-se a forma de mão K+ʞ, onde as duas fazem um formato de K com a mão utilizando os dedos e colocam as duas ao lado, e pensando no elemento que ira utilizar, a forma em que vai vir e o que vai fazer. O elemento  vai aparecer no centro do gesto de mão K+ʞ.</h3>
   <h2>harzirliks verbais.</h2>
      <h3>Harzirlks verbais em feitiços elementais são usados por seres que tem menos coordenação motora e mais facilidade em pronunciar o feitiço. Para manipular o fogo precisa-se pronunciar as seguintes palavras: Ignis Deus, da mihi virtutem ignis ad tempus cohibeat. Para mudar o elemento que ira controlar temporariamente, basta trocar as palavras"ignis", pelo elemento desejado em latim.</h3>
- <h1>Ranks de magia.</h1>
-     <h3>os ranks de magia podem denominar a dificuldade do feitiço e nivel de manipulação de magia. todos estes utilizam a mesma rankeação, muda apenas o que esta sendo rankeado. O mais alto rank é o "K" e o mais baixo o "Z"; a ordem é: K,L,M,N,O,P,Q,R,S e Z. Para saber o que este rank define procure a palavra anterior ou o sujeito da frase na qual esta escrita o rank.</h3> 
-     <h3>Exemplo: O nicolau é clasificado como rank S; O feitiço de azaração é nivel rank M.</h3>
-  <h2>rankeamento de monstros.</h2>
+  <h1>Monstros<h1>
+     <h3>Os monstros foram criados apartir da junção de alguns seres misturados a magia espalhada por Odiot. Alguns mosntros podem nao vir desta origem, mas isso será explicado na pagina do monstro em si.</h3>
+     <h2>O que define um ser um monstro?</h2>
+     <h3>Um mosntro é definido por um aspecto aterrorizante ou poder aterrorizante; nem sempre o ser é mal, ele pode apenas ser aterrorizante.</h3>
+       <h2>rankeamento de monstros.</h2>
      <h3>O rankeamento de monstros é mais simples que o de magia, pois, ele contem apenas 3 ranks. Quanto mais alto o rank é mais perigoso e mortal este mosntro é. O mais alto rank é o C+ e o mais baico c-. A ordem é: C+, C, CK e C-.</h3>
- <h3>Exemplo: o montro tem nivel Z e rank CK. </h3>
+ <h3>Exemplo: o monstro tem nivel Z e rank CK. </h3>
