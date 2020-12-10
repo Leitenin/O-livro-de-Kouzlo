@@ -16,7 +16,7 @@
   <h2>Exemplo de harzirliks gestuais</h2>
      <h3>Em harzirlik para elementos utiliza-se a forma de mão K+ʞ, onde as duas fazem um formato de K com a mão utilizando os dedos e colocam as duas ao lado, e pensando no elemento que ira utilizar, a forma em que vai vir e o que vai fazer. O elemento  vai aparecer no centro do gesto de mão K+ʞ.</h3>
   <h2>harzirliks verbais.</h2>
-     <h3>Harzirlks verbais em feitiços elementais são usados por seres que tem menos coordenação motora e mais facilidade em pronunciar o feitiço. Para manipular o fogo precisa-se pronunciar as seguintes palavras: Ignis Deus, da mihi virtutem ignis ad tempus cohibeat. Para mudar o elemento que ira controlar temporariamente, basta trocar as palavras"ignis", pelo elemento desejado em latim.</h3>
+     <h3>Harzirlks verbais em feitiços elementais são usados por seres que tem menos coordenação motora e mais facilidade em pronunciar o feitiço. Para manipular o fogo precisa-se pronunciar as seguintes palavras: taebihoc supmet da singi metutriv ihim ad ,sueD singi. Para mudar o elemento que ira controlar temporariamente, basta trocar as palavras"singi", pelo elemento desejado em latim e a palavra ao contraria(usarei este tipo de linguagem futuramente e irei explicar como usa-la mais facilmente) .</h3>
   <h1>Monstros<h1>
      <h3>Os monstros foram criados apartir da junção de alguns seres misturados a magia espalhada por Odiot. Alguns mosntros podem nao vir desta origem, mas isso será explicado na pagina do monstro em si.</h3>
      <h2>O que define um ser um monstro?</h2>
@@ -24,3 +24,12 @@
        <h2>rankeamento de monstros.</h2>
      <h3>O rankeamento de monstros é mais simples que o de magia, pois, ele contem apenas 3 ranks. Quanto mais alto o rank é mais perigoso e mortal este mosntro é. O mais alto rank é o C+ e o mais baico c-. A ordem é: C+, C, CK e C-.</h3>
  <h3>Exemplo: o monstro tem nivel Z e rank CK.</h3>
+<h1>Bixo papão</h1>
+     <h3>O bixo papão é um monstro capaz de se esconder nas sombras e assustar seres com menos de 18 anos, mas não se engane, ele pode te assustar mesmo tendo mais de 18 anos,se ele estiver irritado ele pode chegar a matar alguem...</h3>
+     <h3>O primeiro bixo papão acabou se envolvendo com uma arvore racional com corpo humanoide, esta relação deu a luz a uma nova raça, chamada de Coria.</h3>
+     <h2>Poderes</h2>
+     <h3>- se esconder nas sombras. Comk este poder os bixos papões podem se camuflar nas sombras para que possa assustar as crianças e adolescentes sem o acharem</h3>
+     <h3>-controlar as sombras. Este poder permite que o bixo papão possa manipular sombras(se haver luz a sombra se disolve)</h3>
+     <h2>Fraquezas</h2>
+     <h3>- Luz.</h3>
+     <h3>- piolho.</h3>
