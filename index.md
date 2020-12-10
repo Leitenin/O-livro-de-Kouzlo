@@ -19,7 +19,7 @@
      <h3>Harzirlks verbais em feitiços elementais são usados por seres que tem menos coordenação motora e mais facilidade em pronunciar o feitiço. Para manipular o fogo precisa-se pronunciar as seguintes palavras: taebihoc supmet da singi metutriv ihim ad ,sueD singi. Para mudar o elemento que ira controlar temporariamente, basta trocar as palavras"singi", pelo elemento desejado em latim e a palavra ao contraria(usarei este tipo de linguagem futuramente e irei explicar como usa-la mais facilmente) .</h3>
   <h1>Monstros<h1>
      <h3>Os monstros foram criados apartir da junção de alguns seres misturados a magia espalhada por Odiot. Alguns mosntros podem nao vir desta origem, mas isso será explicado na pagina do monstro em si.</h3>
-     <h2>O que define um ser um monstro?</h2>
+     <h2>O que define um ser um monstro? </h2>
      <h3>Um mosntro é definido por um aspecto aterrorizante ou poder aterrorizante; nem sempre o ser é mal, ele pode apenas ser aterrorizante.</h3>
        <h2>rankeamento de monstros.</h2>
      <h3>O rankeamento de monstros é mais simples que o de magia, pois, ele contem apenas 3 ranks. Quanto mais alto o rank é mais perigoso e mortal este mosntro é. O mais alto rank é o C+ e o mais baico c-. A ordem é: C+, C, CK e C-.</h3>
