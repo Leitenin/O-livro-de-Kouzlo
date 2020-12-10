@@ -28,7 +28,7 @@
      <h3>O bixo papão é um monstro capaz de se esconder nas sombras e assustar seres com menos de 18 anos, mas não se engane, ele pode te assustar mesmo tendo mais de 18 anos,se ele estiver irritado ele pode chegar a matar alguem...</h3>
      <h3>O primeiro bixo papão acabou se envolvendo com uma arvore racional com corpo humanoide, esta relação deu a luz a uma nova raça, chamada de Coria.</h3>
      <h2>Poderes</h2>
-     <h3>- se esconder nas sombras. Comk este poder os bixos papões podem se camuflar nas sombras para que possa assustar as crianças e adolescentes sem o acharem</h3>
+     <h3>- se esconder nas sombras. Como este poder os bixos papões podem se camuflar nas sombras para que possa assustar as crianças e adolescentes sem o acharem</h3>
      <h3>-controlar as sombras. Este poder permite que o bixo papão possa manipular sombras(se haver luz a sombra se disolve)</h3>
      <h2>Fraquezas</h2>
      <h3>- Luz.</h3>
