@@ -33,7 +33,7 @@
      <h2>Fraquezas</h2>
      <h3>- Luz.</h3>
      <h3>- piolho.</h3>
- <h1>Feitço de luz</h1>
+ <h1>Feitiço de luz</h1>
      <h3>O feitiço de luz é usado para derrotar um bixo papão ou iluminar um local. O harzirlik deste feitiço é verbal e gestual ao mesmo tempo; "oivella" e o "movimento do punho" são os nomes dados para os harziliks no qual usaremos.</h3>
      <h3>Movimento do punho: Este harzirlik funciona da seguinte forma, junte seu punhos com a mão fechada, a mão direita tem que apontar para a esquerda e a esqueda para frente. Gire seu punhos invertendo suas posições(direita aponta para cima e esquerda aponta para a direta). Abra sua mão enquanto gira seu punho e feche ao terminar o giro.</h3>
      <h3>Oivella: O oivella é a palavra dita no momento em que sua mão esta girando, diga com vontade.</h3>
