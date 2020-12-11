@@ -19,17 +19,22 @@
      <h3>Harzirlks verbais em feitiços elementais são usados por seres que tem menos coordenação motora e mais facilidade em pronunciar o feitiço. Para manipular o fogo precisa-se pronunciar as seguintes palavras: taebihoc supmet da singi metutriv ihim ad ,sueD singi. Para mudar o elemento que ira controlar temporariamente, basta trocar as palavras"singi", pelo elemento desejado em latim e a palavra ao contraria(usarei este tipo de linguagem futuramente e irei explicar como usa-la mais facilmente) .</h3>
   <h1>Monstros<h1>
      <h3>Os monstros foram criados apartir da junção de alguns seres misturados a magia espalhada por Odiot. Alguns mosntros podem nao vir desta origem, mas isso será explicado na pagina do monstro em si.</h3>
-     <h2>O que define um ser um monstro? </h2>
+        <h2>O que define um ser um monstro? </h2>
      <h3>Um mosntro é definido por um aspecto aterrorizante ou poder aterrorizante; nem sempre o ser é mal, ele pode apenas ser aterrorizante.</h3>
        <h2>rankeamento de monstros.</h2>
-     <h3>O rankeamento de monstros é mais simples que o de magia, pois, ele contem apenas 3 ranks. Quanto mais alto o rank é mais perigoso e mortal este mosntro é. O mais alto rank é o C+ e o mais baico c-. A ordem é: C+, C, CK e C-.</h3>
+     <h3>O rankeamento de monstros é mais simples que o de magia, pois, ele contem apenas 3 ranks. Quanto mais alto o rank é mais perigoso e mortal este mosntro é. O mais alto rank é o C+ e o mais baixo c-. A ordem é: C+, C, CK e C-.</h3>
  <h3>Exemplo: o monstro tem nivel Z e rank CK.</h3>
 <h1>Bixo papão</h1>
-     <h3>O bixo papão é um monstro capaz de se esconder nas sombras e assustar seres com menos de 18 anos, mas não se engane, ele pode te assustar mesmo tendo mais de 18 anos,se ele estiver irritado ele pode chegar a matar alguem...</h3>
+     <h3>O bixo papão é um monstro capaz de se esconder nas sombras e assustar seres com menos de 18 anos, mas não se engane, ele pode te assustar mesmo tendo mais de 18 anos,se ele estiver irritado ele pode chegar a matar alguem... Seus ranks são: CK e S.</h3>
      <h3>O primeiro bixo papão acabou se envolvendo com uma arvore racional com corpo humanoide, esta relação deu a luz a uma nova raça, chamada de Coria.</h3>
      <h2>Poderes</h2>
      <h3>- se esconder nas sombras. Como este poder os bixos papões podem se camuflar nas sombras para que possa assustar as crianças e adolescentes sem o acharem</h3>
-     <h3>-controlar as sombras. Este poder permite que o bixo papão possa manipular sombras(se haver luz a sombra se disolve)</h3>
+     <h3>-controlar sonhos. com esta habilidade ele pode controlar o sonho de suas vitimas e assusta-las.</h3>
      <h2>Fraquezas</h2>
      <h3>- Luz.</h3>
      <h3>- piolho.</h3>
+ <h1>Feitço de luz</h1>
+     <h3>O feitiço de luz é usado para derrotar um bixo papão ou iluminar um local. O harzirlik deste feitiço é verbal e gestual ao mesmo tempo; "oivella" e o "movimento do punho" são os nomes dados para os harziliks no qual usaremos.</h3>
+     <h3>Movimento do punho: Este harzirlik funciona da seguinte forma, junte seu punhos com a mão fechada, a mão direita tem que apontar para a esquerda e a esqueda para frente. Gire seu punhos invertendo suas posições(direita aponta para cima e esquerda aponta para a direta). Abra sua mão enquanto gira seu punho e feche ao terminar o giro.</h3>
+     <h3>Oivella: O oivella é a palavra dita no momento em que sua mão esta girando, diga com vontade.</h3>
+     <h3>Ao fazer todo o movimento em conjunto uma bola de luz branca aparece no centro de sua mão direita; Você pode deixar a bola em sua mão e usar como uma especie de tocha, ou, lança-la apontando para o que deseja acertar e ira lançar a bola de luz.</h3>
