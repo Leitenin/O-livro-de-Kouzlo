@@ -39,5 +39,5 @@
      <h3>Oivella: O oivella é a palavra dita no momento em que sua mão esta girando, diga com vontade.</h3>
      <h3>Ao fazer todo o movimento em conjunto uma bola de luz branca aparece no centro de sua mão direita; Você pode deixar a bola em sua mão e usar como uma especie de tocha, ou, lança-la apontando para o que deseja acertar e ira lançar a bola de luz.</h3>
 <FONT COLOR="#2ECCFA">
-   <h3>Pão de queijo</h3>
+   <h3>Pão de queijo.</h3>
      </FONT>
