@@ -38,3 +38,4 @@
      <h3>Movimento do punho: Este harzirlik funciona da seguinte forma, junte seu punhos com a mão fechada, a mão direita tem que apontar para a esquerda e a esqueda para frente. Gire seu punhos invertendo suas posições(direita aponta para cima e esquerda aponta para a direta). Abra sua mão enquanto gira seu punho e feche ao terminar o giro.</h3>
      <h3>Oivella: O oivella é a palavra dita no momento em que sua mão esta girando, diga com vontade.</h3>
      <h3>Ao fazer todo o movimento em conjunto uma bola de luz branca aparece no centro de sua mão direita; Você pode deixar a bola em sua mão e usar como uma especie de tocha, ou, lança-la apontando para o que deseja acertar e ira lançar a bola de luz.</h3>
+<FONT COLOR="#2ECCFA">Texto</FONT>
